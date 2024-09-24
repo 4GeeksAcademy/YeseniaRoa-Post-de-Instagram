@@ -1,0 +1,50 @@
+.post {
+    width: 600px; 
+    border: 1px solid black;
+    margin: 0px auto;
+}
+.post-header {
+    background: white;
+    display: flex;
+    justify-content: space-between;
+}
+.post-header-left {
+    display: flex;
+    align-items: center;
+}
+.post-header-icon {
+    font-size: 30px;
+    padding: 10px;
+}
+.post-header-text p{
+    margin: 0px;
+}
+.post-header-text h3{
+    margin: 0px;
+}
+.post-header-menu {
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    padding: 10px;
+}
+.post-image {
+    width: 100%;
+}
+.post-icons {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+
+}
+.post-icon-left {
+    font-size: 30px;
+}
+.post-icon-right {
+    font-size: 30px;
+}
+.post-likes,
+.post-paragraph {
+    padding: 10px;
+
+}
